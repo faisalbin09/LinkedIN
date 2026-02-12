@@ -1,0 +1,15 @@
+.userCard {
+  display: flex;
+  width: 100%;
+  gap: 1.2rem;
+  padding: 1.3rem;
+  /* justify-content: space-between; */
+  align-items: center;
+  box-shadow: 10px 10px 10px 0px rgba(0, 0, 0, 0.1);
+}
+
+.profilePicture > img {
+  width: 6.5rem;
+  border-radius: 50%;
+}
+
